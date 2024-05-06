@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Satisfy Event Management</string>
+    <string name="main_url">https://satisfy-event-management.weeblysite.com/</string>
+    <string name="admob_app_id">ca-app-pub-1300550419393935~5841309370</string>
+    <string name="admob_banner_id">ca-app-pub-1300550419393935/2988502055</string>
+    <string name="todo">TODO</string>
+</resources>
